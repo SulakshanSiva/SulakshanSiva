@@ -1,4 +1,4 @@
-Hello!:wave:	
+Hello!
 
 My name is Sulakshan Sivakumaran.
 
