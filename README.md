@@ -1,19 +1,20 @@
-Hello!
+Hello! 
 
-My name is Sulakshan Sivakumaran.
+# About Me
 
-I am an aspiring Software Developer currently majoring in Computer Science at the University of Guelph!
+My name is Sulakshan Sivakumaran. I am an aspiring Software Engineer currently majoring in Computer Science at The University of Guelph.
 
-My Skills
+I am currently seeking a 2023 Summer Coop Internship. You can contact me at sulakshansivak@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,react,js,bootstrap,firebase,github,gitlab,docker,html,css,)](https://skillicons.dev)
-
-My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulakshanSiva&theme=radical)
+You can find my resume below!
 
 
-<!---
-SulakshanSiva/SulakshanSiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## My GitHub Stats!
+
+<a href="https://github.com/SulakshanSiva">
+  <img height="180em" align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=SulakshanSiva&count_private=true&show_icons=true&theme=vue-dark" />
+  <img height="180em" align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanSiva&theme=vue-dark&langs_count=6&layout=compact" />
+</a>
