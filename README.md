@@ -1,13 +1,26 @@
-Hello! 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 # About Me
 
-My name is Sulakshan Sivakumaran. I am an aspiring Software Engineer currently majoring in Computer Science at The University of Guelph.
+My name is Sulakshan Sivakumaran. 
+
+I am an aspiring Software Engineer currently majoring in Computer Science at The University of Guelph.
 
 I am currently seeking a 2023 Summer Coop Internship. You can contact me at sulakshansivak@gmail.com
+  
+You can find my <b>Resume</b> below!
 
-You can find my resume below!
+[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/10329794/Resume.pdf)
+  
+Here are my Socials: 
 
+<a href="https://www.linkedin.com/in/sulakshansiva/">
+    <img height="50" src="https://user-images.githubusercontent.com/68358652/210189498-bba6fb66-ba2a-40a0-be38-3c3b4ad25d93.png"/>
+</a>
+
+# Skills
 
 
 ## My GitHub Stats!
