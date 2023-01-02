@@ -18,9 +18,6 @@ Here are my Socials:
     <img height="50" src="https://user-images.githubusercontent.com/68358652/210189498-bba6fb66-ba2a-40a0-be38-3c3b4ad25d93.png"/>
 </a>
 
-## Skills
-
-
 ## My GitHub Stats!
 
 <a href="https://github.com/SulakshanSiva">
