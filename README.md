@@ -10,7 +10,8 @@ I am currently seeking a 2023 Summer Coop Internship. You can contact me at sula
   
 You can find my <b>Resume</b> below!
 
-[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/10386088/Resume-SulakshanSivakumaran.pdf)
+[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/10611924/SulakshanSivakumaran-Resume.pdf)
+
   
 Here are my Socials: 
 
