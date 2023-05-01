@@ -6,7 +6,7 @@ My name is Sulakshan Sivakumaran.
 
 I am an aspiring Software Engineer currently majoring in Computer Science at The University of Guelph.
 
-I am currently seeking a 2023 Summer Coop Internship. You can contact me at sulakshansivak@gmail.com
+I am currently seeking a 2023 Fall Coop Internship. You can contact me at sulakshansivak@gmail.com
   
 You can find my <b>Resume</b> below!
 
