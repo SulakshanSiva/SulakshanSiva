@@ -16,14 +16,13 @@ Hi! 👋 I'm <strong>Sulakshan</strong>
 
 <div align="center">
   
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulakshansiva/)
   
 </div>
 
 <div align="center">
   
-  ![Sulakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulakshanSiva&theme=dark&show_icons=true)
+![Sulakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulakshanSiva&theme=dark&show_icons=true)
   
 </div>
 
@@ -34,6 +33,8 @@ My Resume!
 <div align="center">
   
 [Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/11415962/SulakshanSivaResume.pdf)
+  
+Contact me at: sulakshansivak@gmail.com
   
 </div>
 
