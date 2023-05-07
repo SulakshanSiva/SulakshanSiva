@@ -33,7 +33,7 @@ My Resume!
 
 <div align="center">
   
-  ![SulakshanSivaResume.pdf]()
+[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/11415962/SulakshanSivaResume.pdf)
   
 </div>
 
