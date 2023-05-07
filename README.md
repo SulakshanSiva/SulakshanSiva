@@ -1,30 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38)
+<h1 align="center">
+Hi! 👋 I'm <strong>Sulakshan</strong>
+</h1>
 
-# About Me
+<p align="center">
+  Software Engineer from Toronto.
+</p>
 
-My name is Sulakshan Sivakumaran. 
+<p align="center">
+  CS Student @ <strong>University of Guelph.</strong>
+</p>
 
-I am an aspiring Software Engineer currently majoring in Computer Science at The University of Guelph.
+<p align="center">
+  <strong>Actively Seeking 2023 Fall Coop Internship.</strong>
+</p>
 
-I am currently seeking a 2023 Fall Coop Internship. You can contact me at sulakshansivak@gmail.com
+<div align="center">
   
-You can find my <b>Resume</b> below!
-
-[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/10611924/SulakshanSivakumaran-Resume.pdf)
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   
-Here are my Socials: 
+</div>
 
-<a href="https://www.linkedin.com/in/sulakshansiva/">
-    <img height="50" src="https://user-images.githubusercontent.com/68358652/210189498-bba6fb66-ba2a-40a0-be38-3c3b4ad25d93.png"/>
-</a>
+<div align="center">
+  
+  ![Sulakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulakshanSiva&theme=dark&show_icons=true)
+  
+</div>
 
+<h1 align="center">
+My Resume!
+</h1>
 
-## My GitHub Stats!
+<div align="center">
+  
+  ![SulakshanSivaResume.pdf]()
+  
+</div>
 
-<a href="https://github.com/SulakshanSiva">
-  <img height="180em" align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=SulakshanSiva&count_private=true&show_icons=true&theme=vue-dark" />
-  <img height="180em" align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulakshanSiva&theme=vue-dark&langs_count=6&layout=compact" />
-</a>
