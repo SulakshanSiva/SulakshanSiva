@@ -32,7 +32,8 @@ My Resume!
 
 <div align="center">
   
-[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/11415962/SulakshanSivaResume.pdf)
+[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/11473637/ResumeSulakshanSiva.pdf)
+
   
 Contact me at: sulakshansivak@gmail.com
   
