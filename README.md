@@ -11,7 +11,7 @@ Hi! 👋 I'm <strong>Sulakshan</strong>
 </p>
 
 <p align="center">
-  <strong>Actively Seeking 2023 Fall Coop Internship.</strong>
+  <strong>Actively Seeking 2024 Summer Coop Internship.</strong>
 </p>
 
 <div align="center">
