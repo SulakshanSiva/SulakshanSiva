@@ -20,11 +20,6 @@ Hi! 👋 I'm <strong>Sulakshan</strong>
   
 </div>
 
-<div align="center">
-  
-![Sulakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulakshanSiva&theme=dark&show_icons=true)
-  
-</div>
 
 <h1 align="center">
 My Resume!
