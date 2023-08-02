@@ -21,14 +21,7 @@ Hi! 👋 I'm <strong>Sulakshan</strong>
 </div>
 
 
-<h1 align="center">
-My Resume!
-</h1>
-
 <div align="center">
-  
-[Resume.pdf](https://github.com/SulakshanSiva/SulakshanSiva/files/11473637/ResumeSulakshanSiva.pdf)
-
   
 Contact me at: sulakshansivak@gmail.com
   
