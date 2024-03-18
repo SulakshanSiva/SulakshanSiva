@@ -1,18 +1,10 @@
 <h1 align="center">
-Hi! 👋 I'm <strong>Sulakshan</strong>
+  Hi! 👋 I'm <strong>Sulakshan</strong>
 </h1>
 
-<p align="center">
-  Software Engineer from Toronto.
-</p>
+<h2>🎓 About Me</h2>
 
-<p align="center">
-  CS Student @ <strong>University of Guelph.</strong>
-</p>
-
-<p align="center">
-  <strong>Actively Seeking 2024 Summer Coop Internship.</strong>
-</p>
+I am a third year Computer Science Student at the University of Guelph, passionate about learning and exploring the world of programming!
 
 <div align="center">
   
@@ -20,10 +12,10 @@ Hi! 👋 I'm <strong>Sulakshan</strong>
   
 </div>
 
+<h2>🚀 What I'm Up To</h2>
 
-<div align="center">
-  
-Contact me at: sulakshansivak@gmail.com
-  
-</div>
+- Exploring Cloud Computing with AWSEducate
+- Building Full-Stack Applications with JavaScript Frameworks/Libraries
+
+
 
