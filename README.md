@@ -15,7 +15,7 @@ I am a third year Computer Science Student at the University of Guelph, passiona
 <h2>🚀 What I'm Up To</h2>
 
 - Exploring Cloud Computing with [AWSEducate](https://aws.amazon.com/education/awseducate/)
-- Building Full-Stack Applications with JavaScript Frameworks/Libraries
+- Building Applications with Spring Boot and PostgreSQL
 
 
 
