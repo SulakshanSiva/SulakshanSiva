@@ -6,7 +6,7 @@
 
 I am a third year Computer Science Student at the University of Guelph, passionate about learning and exploring the world of programming!
 
-Currently seeking Winter 2025 Internships!
+Currently seeking Fall 2025 Internships!
 
 <div align="center">
   
