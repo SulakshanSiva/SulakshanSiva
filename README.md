@@ -3,7 +3,7 @@
 </h1>
 
 - 5th year Computer Science Student at the University of Guelph
-- Seeking New Grad Jobs 2026!
+- Seeking New Grad Jobs 2026
 
 <div align="center">
 
