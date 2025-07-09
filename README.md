@@ -2,7 +2,7 @@
   Hi! 👋 I'm <strong>Sulakshan</strong>
 </h1>
 
-- 5th year Computer Science Student at the University of Guelph
+- 4th year Computer Science Student at the University of Guelph
 - Seeking Fall 2025 Internships
 - Seeking New Grad Jobs 2026
 
