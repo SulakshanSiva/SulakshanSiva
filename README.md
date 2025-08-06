@@ -3,7 +3,7 @@
 </h1>
 
 - 4th year Computer Science Student at the University of Guelph
-- Seeking Fall 2025 Internships
+- Seeking Winter 2026 Internships
 - Seeking New Grad Jobs 2026
 
 <div align="center">
